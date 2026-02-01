@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Virtual Environment (Very heavy - do not upload)
+.venv/
+venv/
+
+# PyCharm Settings
+.idea/
+
+# Logs (Contains private patient data)
+triage_audit.log
+
+# Python Cache
+__pycache__/
+*.pyc
