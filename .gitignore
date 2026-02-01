@@ -10,7 +10,7 @@ venv/
 
 # Logs (Contains private patient data)
 triage_audit.log
-
+clinical_vault.db
 # Python Cache
 __pycache__/
 *.pyc
